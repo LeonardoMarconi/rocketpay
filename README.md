@@ -1,4 +1,10 @@
-# Rocketpay
+# 🌐🪙 Rocketpay
+![GitHub repo size](https://img.shields.io/github/repo-size/LeonardoMarconi/rocketpay?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/LeonardoMarconi/rocketpay?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/LeonardoMarconi/rocketpay?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/LeonardoMarconi/rocketpay?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/LeonardoMarconi/rocketpay?style=for-the-badge)
+
 API  de de transferências, saques e depósitos entre clientes. Projeto idealizado pela @Rocketseat na NLW 04
 
 ## ✨ Tecnologias
